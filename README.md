@@ -2,6 +2,8 @@ PyTorch implementation of Stable Diffusion from scratch
 
 This repository inspired by https://github.com/hkproj/pytorch-stable-diffusion, but my contribution is to add annotations for beginner to learn how the stable diffusion works even if it's a little bit hard to read.
 
+## You can run demo.py to generate pictures
+
 ## Download weights and tokenizer files:
 - Download vocab.json and merges.txt from https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main/tokenizer and save them in the data folder
 - Download v1-5-pruned-emaonly.ckpt from https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main and save it in the data folder
